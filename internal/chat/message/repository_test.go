@@ -3,8 +3,8 @@ package repository_test
 import (
 	"testing"
 
-	"your_project_path/internal/chat/message"
-	"your_project_path/internal/chat/message/repository"
+	"incognous/internal/chat/message"
+	"incognous/internal/chat/message/repository"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
